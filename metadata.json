@@ -1,0 +1,8 @@
+{
+  "name": "Ecstatica - Creation Days & Midburn Signups",
+  "description": "Mobile-first signup, WhatsApp reminders, and Google Sheets sync for Camp Ecstatica creation days and Midburn 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
